@@ -39,3 +39,4 @@
 <br><br>
 Visit Us: <a href="mycin.in">mycin.in</a>
 <br>In case of queries, contact us at <b><a href="mailto:mycin@kiet.edu">mycin@kiet.edu</a></b>.
+.
